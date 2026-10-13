@@ -1,0 +1,53 @@
+*********** STUDENT RESULT ***********
+
+Name: AK
+Python: 78.0
+C: 98.0
+Java: 89.0
+Total: 265.0 / 300
+Percentage: 88.33%
+Grade: A
+Status: PASS
+
+Name: SK
+Python: 87.0
+C: 98.0
+Java: 87.0
+Total: 272.0 / 300
+Percentage: 90.67%
+Grade: A+
+Status: PASS
+
+*********** CLASS AVERAGE ***********
+Class Average: 89.5%
+
+Highest Scorer: SK
+Highest Percentage: 90.67%
+
+----------------------------------------
+       STUDENT RESULT
+----------------------------------------
+Name: taniya
+Roll No.: 22
+Python: 97.0
+C: 88.0
+Java: 95.0
+Total: 280 / 300
+Percentage: 93.33%
+Status: PASS
+Grade: A+
+----------------------------------------
+
+----------------------------------------
+       STUDENT RESULT
+----------------------------------------
+Name: Bhoomi
+Roll No.: 61
+Python: 89.0
+C: 99.0
+Java: 86.0
+Total: 274 / 300
+Percentage: 91.33%
+Status: PASS
+Grade: A+
+----------------------------------------
